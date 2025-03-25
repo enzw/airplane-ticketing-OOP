@@ -36,6 +36,6 @@ public class Penerbangan {
     public void getInfo(){
         System.out.println("Kode Penerbangan: " + kodePenerbangan);
         System.out.println("Rute: " + getRute());
-        System.out.println("Pesawat: " + getPesawat());
+        System.out.println(getPesawat());
     }
 }
