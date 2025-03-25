@@ -31,7 +31,7 @@ public class PMain {
             pesawat1.getInfo();
 
             // 7. Mengubah informasi pesawat
-            pesawat1.setMaskapai("Lion Air");
+            pesawat1.setMaskapai("Lione Air");
             pesawat1.setKapasitas(180);
             System.out.println("\nPesawat setelah diubah:");
             pesawat1.getInfo();
